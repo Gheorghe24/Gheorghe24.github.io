@@ -1,2 +1,3 @@
-# Gheorghe24.github.io
-My Personal Calculator
+# My Personal Calculator
+HTML/CSS & bit of Javascript
+--------------------------------
