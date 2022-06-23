@@ -4,22 +4,28 @@ HTML/CSS & bit of Javascript
 Javascript Functions:
 --------------------
 
-Constructor : \
+Constructor : 
+-----------
 I save my previous and current operands
 
-Clear : \
+Clear : 
+----------
 I free my operands
 
-Delete : \
+Delete : 
+------
 Delete the last character(operand)
 
-AppendNumber : \
+AppendNumber : 
+--------------
 Add to my current operand the input 
 
-Choose operation : \
+Choose operation : 
+-----------------
 Call my compute function and update my current,previous operands
 
-Compute : \
+Compute : 
+-----------
 I have 4 cases(4 operation) and for this I use a switch:
 - "+"
 - "-"
@@ -27,10 +33,12 @@ I have 4 cases(4 operation) and for this I use a switch:
 - "/"
 I am also parsing to float my operands before computation
 
-GetDisplayNumber : \
+GetDisplayNumber : 
+---------------------
 In this function I am parsing my operands(integer digit and decimal digit)
 And finally concatenate them and return as a result
 
-UpdateDisplay : \
+UpdateDisplay : 
+------------------
 I just display the operands (with or without decimal digits) and the operation
 
