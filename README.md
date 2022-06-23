@@ -30,7 +30,8 @@ I have 4 cases(4 operation) and for this I use a switch:
 - "+"
 - "-"
 - "*"
-- "/"
+- "/" 
+
 I am also parsing to float my operands before computation
 
 GetDisplayNumber : 
